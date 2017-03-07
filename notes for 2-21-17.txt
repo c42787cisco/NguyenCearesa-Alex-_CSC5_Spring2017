@@ -1,0 +1,28 @@
+int is the only exact data type every other type approximates
+
+
+L at end to make long LL long long start with 0 base 8 start with 0x base 16
+
+
+1+1+.5+1/6+1/24+1/120+1/720
+
+f at end to make flot
+
+bool 0 is false anything else is true
+
+sizeof is size of data type
+
+The sizeof operator gives the size of any data type or
+variable:
+double amount;
+cout << "A double is stored in "
+ << sizeof(double) << "bytes\n";
+cout << "Variable amount is stored in "
+ << sizeof(amount)
+ << "bytes\n";
+
+
+you can declare and initialize on the same line
+
+
+const  - data that can not be changed during program execution
